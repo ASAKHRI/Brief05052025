@@ -1,3 +1,5 @@
 .env
 data/
 maxime/
+data_preprocess/
+data_avant_ingestion/
